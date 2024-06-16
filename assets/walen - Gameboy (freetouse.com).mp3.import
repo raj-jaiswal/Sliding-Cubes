@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dpxkji4f4he8t"
+path="res://.godot/imported/walen - Gameboy (freetouse.com).mp3-e278ebe5c270aa5945e3d58c59490f9e.mp3str"
+
+[deps]
+
+source_file="res://assets/walen - Gameboy (freetouse.com).mp3"
+dest_files=["res://.godot/imported/walen - Gameboy (freetouse.com).mp3-e278ebe5c270aa5945e3d58c59490f9e.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
